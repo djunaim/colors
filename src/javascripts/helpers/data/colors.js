@@ -36,6 +36,7 @@ const colors = [
     upVotes: 11,
   },
 ];
+
 const getColors = () => colors;
 
 export default { getColors };
